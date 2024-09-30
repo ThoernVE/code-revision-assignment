@@ -10,7 +10,7 @@ namespace code_revision_assignment
     {
         static void Main(string[] args)
         {
-            
+            NameList.MenuSwitch();
         }
     }
 }
