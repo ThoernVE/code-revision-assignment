@@ -11,7 +11,7 @@ namespace code_revision_assignment
 
         internal static void CreateList() //created a function to add names into the list, in order to have a few names sto start of the list before we can manage it.
         {
-            names.Add("Anna");
+            names.Add("Kalle");
             names.Add("John");
             names.Add("Alice");
             names.Add("Boris");
